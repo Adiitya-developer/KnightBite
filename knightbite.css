@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+}
+.main{
+    height: 700px;
+    width: 100%;
+    background-color: aqua;
+    background-size: cover;
+    background-image: url(./app-link-background.svg);
+   
+}
+/* #burger{
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+} */
+.main1{
+    height: 100px;
+    width: 100%;
+    /* background-color: brown; */ */
+    justify-items: center;
+    text-align: center;
+    display: flex;
+    position: sticky;
+}
+/* .main1 .h1{
+    font-size: 30px;
+} */
+.main2{
+    margin-left: 50%;
+    margin-right: 50px;
+    height: 100px;
+    width: 20%;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+#bt{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+ .mainh1{
+    margin-top: 100px;
+    height: 90px;
+    width: 100%;
+    /* background-color: blue; */
+     text-align: center;
+    font-size: 40px;
+    color: white;
+ }
+.order{
+    margin-left: 680px;
+    height: 50px;
+    width: 10%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 20%;
+} 
+.or {
+    height: 50px;
+    width: 100%;
+    /* background-color: pink; */
+    font-size: 20px;
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last{
+    height: 120px;
+    width: 100%;
+    /* background-color: pink; */
+    display: flex;
+}
+.last1{
+    margin-left: 290px;
+    height: 120px;
+    width: 30%;
+    /* background-color: black; */
+    display: flex;
+    justify-content: flex-end;
+}
+#i{
+    margin-top: 10px;
+    height: 60px;
+}
+.last2{
+    margin-left: 20px;
+    height: 120px;
+    width: 30%;
+    /* background-color: aqua; */
+    display: flex; 
+    justify-content: flex-start; 
+    align-item: flex-start;
+}
+#g{
+    height: 77px;
+}
+
+
+/* Section two of the webpage starts from here  */
+
+.features{
+    height: 600px;
+    width: 100%;
+    background-color: transparent;
+    
+}
+#f{
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+}
+.h{
+     margin-top: 150px; 
+    height: 500px;
+    width: 100%;
+    background-color:;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.f1{
+    height: 500px;
+    width: 20%;
+    /* background-color: blue; */
+    
+}
+.f2{
+    height: 500px;
+    width: 20%;
+    /* background-color: bisque; */
+}
+.f3{
+    height: 500px;
+    width: 20%;
+    /* background-color: brown; */
+}
+.f4{
+    height: 500px;
+    width: 20%;
+    /* background-color: cadetblue; */
+}
+.f5{
+    height: 500px;
+    width: 20%;
+    /* background-color: aquamarine; */
+}
+#h2{
+    font-size: 20px;
+}
+
+
+/* Section number three is starting from here */
+
+.sec3{
+    height: 800px;
+    width: 100%;
+    /* background-color: bisque; */ 
+    background-image: url(./sec-4.webp);
+    background-size:cover ;
+}
+.sec33{
+    height: 500px;
+    width: 100%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+#sec3{
+    font-size: 95px;
+    color: white;
+}
+
+.sec4{
+    height: 800px;
+    width: 100%;
+    /* background-color: aqua; */ 
+    background-image: url(./sec\ 4.webp);
+    background-size: cover;
+}
+.seefullmenu{
+    margin-left: 580px;
+    margin-top: 150px;
+    height: 100px;
+    width: 15%;
+    /* background-color: brown; */
+    border-radius: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    border: solid;
+
+}
+.sec44{
+    height: 500px;
+    width: 100%;
+    /* font-size: 70px; */
+    /* background-color: blue; */
+    display: flex;
+    justify-content: baseline;
+    align-items: flex-end;
+    
+ }
+ #sec4{
+    font-size: 65px; 
+    color: white;
+    margin-left: 350px;
+    
+    
+ }
